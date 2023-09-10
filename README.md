@@ -70,10 +70,10 @@ Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
 [SRC](https://t.me/fn_project/392)
 
 ### Contact
-[WhatsApp](https://wa.me/6283120684925)
-[Telegram](https://t.me/Rerechan02)
-[Chanel](https://t.me/fn_project)
-[Chat-Group](https://chat.whatsapp.com/LlJmbvSQ2DsHTA1EccNGoO)
+[WhatsApp](https://wa.me/6283120684925)<br>
+[Telegram](https://t.me/Rerechan02)<br>
+[Chanel](https://t.me/fn_project)<br>
+[Chat-Group](https://chat.whatsapp.com/LlJmbvSQ2DsHTA1EccNGoO)<br>
 
 ## Persyaratan Sistem  
   |Sistem|Supported|Tested|Minimal|Disarankan|  
