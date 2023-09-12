@@ -48,7 +48,7 @@
 ```
 ### PATH
 - [SSH] / /(*)
-- [VMESS] /worryfree /kuota-habis
+- [VMESS] /vmessws | /worryfree | /kuota-habis
 - [TROJAN] /trojan-ws
 
 ### SETTING CLOUDFLARE
