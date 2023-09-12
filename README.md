@@ -90,7 +90,7 @@ Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
   
  |Tunnel|Path|APIKey|user|pass|expi|core|UUID| 
   |--|--|--|--|--|--|--|--| 
-  |SSH/|/|✅|✅|✅|✅|⛔️|⛔️|   
+  |SSH|/|✅|✅|✅|✅|⛔️|⛔️|   
   |VMess|/vmessws|✅|✅|⛔️|✅|✅|✅|   
   |Trojan|/trojan-ws|✅|✅|⛔️|✅|✅|✅|   
   |UDP Custom|/|✅|✅|✅|✅|✅|⛔️|   
